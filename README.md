@@ -1,5 +1,4 @@
-## Hello👋
-## My name is Isa!
+# Hello👋 My name is Isa!
 
 <!--
 **IsaRakhatbekov/IsaRakhatbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
