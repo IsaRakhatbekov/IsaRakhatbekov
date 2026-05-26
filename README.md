@@ -1,5 +1,3 @@
-# 𝗪𝗲𝗹𝗰𝗼𝗺𝗲, 𝗜'𝗺 𝗜𝘀𝗮
-
 <svg fill="none" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
@@ -47,19 +45,15 @@
         }
       </style>
       <div class="container">
-        <!-- Background Illustration: Distributed Systems & Infrastructure -->
         <svg class="bg-illustration" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-            <!-- Network connections -->
             <path d="M50 50 L150 120 L250 40 L350 160 L450 80 L550 140 L650 60 L750 130" stroke="#60a5fa" stroke-width="2" fill="none" stroke-dasharray="4 4" />
             <path d="M100 150 L200 70 L300 130 L400 50 L500 150 L600 80 L700 160" stroke="#a78bfa" stroke-width="2" fill="none" stroke-dasharray="4 4" />
             
-            <!-- Cross connections between layers -->
             <line x1="150" y1="120" x2="200" y2="70" stroke="#60a5fa" stroke-width="1" opacity="0.6"/>
             <line x1="300" y1="130" x2="350" y2="160" stroke="#a78bfa" stroke-width="1" opacity="0.6"/>
             <line x1="450" y1="80" x2="500" y2="150" stroke="#60a5fa" stroke-width="1" opacity="0.6"/>
             <line x1="600" y1="80" x2="650" y2="60" stroke="#a78bfa" stroke-width="1" opacity="0.6"/>
 
-            <!-- Server/Container Nodes (rectangles) -->
             <rect x="35" y="40" width="30" height="20" rx="3" stroke="#60a5fa" stroke-width="1.5" fill="#0f172a" />
             <rect x="235" y="30" width="30" height="20" rx="3" stroke="#60a5fa" stroke-width="1.5" fill="#0f172a" />
             <rect x="435" y="70" width="30" height="20" rx="3" stroke="#60a5fa" stroke-width="1.5" fill="#0f172a" />
@@ -70,7 +64,6 @@
             <rect x="485" y="140" width="30" height="20" rx="3" stroke="#a78bfa" stroke-width="1.5" fill="#0f172a" />
             <rect x="685" y="150" width="30" height="20" rx="3" stroke="#a78bfa" stroke-width="1.5" fill="#0f172a" />
 
-            <!-- Data/Service Nodes (circles) -->
             <circle cx="150" cy="120" r="7" fill="#a78bfa" />
             <circle cx="350" cy="160" r="6" fill="#a78bfa" />
             <circle cx="550" cy="140" r="7" fill="#a78bfa" />
@@ -80,13 +73,12 @@
             <circle cx="400" cy="50" r="5" fill="#60a5fa" />
             <circle cx="600" cy="80" r="6" fill="#a78bfa" />
             
-            <!-- Abstract Cloud curves -->
             <path d="M 60 100 Q 80 80 100 100 Q 120 90 130 110" stroke="#60a5fa" stroke-width="1.5" fill="none" opacity="0.4" />
             <path d="M 650 120 Q 670 100 690 120 Q 710 110 720 130" stroke="#a78bfa" stroke-width="1.5" fill="none" opacity="0.4" />
         </svg>
 
-        <div class="name">Hussain Abbas</div>
-        <div class="title">Director of Engineering • DevEx • Platform • AI</div>
+        <div class="name">Hi, I'm Isa</div>
+        <div class="title">Software Developer</div>
       </div>
     </div>
   </foreignObject>
